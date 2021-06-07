@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a currency exchange platform for a fintech project.
-- 🌱 I’m currently learning to create video games with pure vanilla Js
+- 🔭 I’m currently working on a currency exchange platform as a Frontend Developer.
+- 🌱 I’m currently learning to create video games with pure Vanilla Js.
 - 👯 I’m looking to collaborate on open source projects and webapps.
 - 📫 How to reach me: write to mariangace@gmail.com
