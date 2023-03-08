@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on fintech startup as a Frontend Engineer.
-- 🌱 I’m currently learning creative coding with Vanilla Js, p5.js, and improving my skills as testing ReactJs apps with Enzyme, Jest and Cypress.
+- 🔭 I’m currently working in fintech startup as a Frontend Eng.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: write to mariangace@gmail.com
