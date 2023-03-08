@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working in fintech startup as a Frontend Eng.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate with open source projects.
 - 📫 How to reach me: write to mariangace@gmail.com
