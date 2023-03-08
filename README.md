@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in fintech startup as a Frontend Eng.
-- 👯 I’m looking to collaborate with open source projects.
+- 🔭 Working in fintech startup as a Frontend Eng.
+- 🌱 Creating career capital.
 - 📫 How to reach me: write to mariangace@gmail.com
